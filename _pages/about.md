@@ -1,6 +1,5 @@
 ---
 title: About me
-subtitle: A little about myself.
 description: A little about myself.
 featured_image: /images/demo/about.jpg
 ---
