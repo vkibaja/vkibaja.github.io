@@ -1,7 +1,7 @@
 site: Vanessa Kibaja
 
 url: vkibaja.github.io
-baseurl: 
+baseurl: vkibaja.github.io/projects
 
 collections:
   pages:
