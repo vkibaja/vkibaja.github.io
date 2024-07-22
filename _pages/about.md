@@ -15,7 +15,7 @@ featured_image: /images/demo/about.jpg
 
 💻 **Investigate security incidents** and implement customized **mitigation strategies** to enhance cybersecurity defenses.
 
-👩🏽‍💻 Utilize tools such as Splunk SIEM, FireEye HX, CrowdStrike, and CarbonBlack for threat detection, response, and remediation.
+👩🏽‍💻 Utilize tools such as Splunk SIEM, CrowdStrike, Cisco AMP, and Proofpoint for threat detection, response, and remediation.
 
 💖 Enthusiastic about advancing security.
 
