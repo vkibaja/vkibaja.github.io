@@ -1,19 +1,21 @@
 ---
 title: About me
-subtitle: A little bit about myself.
-description: A little bit about myself.
+subtitle: A little about myself.
+description: A little about myself.
 featured_image: /images/demo/about.jpg
 ---
 
-## Features
+## A little about myself
 
 We've packed Personal full of powerful features to help showcase your work:
 
 👩🏽 My name is **Vanessa Kibaja**.
-* A dedicated **cybersecurity professional** and **incident response expert**.
-* Committed to continuous learning with a **Master's degree in Cybersecurity** and **various certifications**, always eager to enhance my knowledge.
-* **Investigate security incidents** and implement customized **mitigation strategies** to enhance cybersecurity defenses.
-* Blog with pagination
+💼 A dedicated **cybersecurity professional** and **incident response expert**.
+👩🏽‍🎓 Committed to continuous learning with a **Master's degree in Cybersecurity** and **various certifications**, always eager to enhance my knowledge.
+💻 **Investigate security incidents** and implement customized **mitigation strategies** to enhance cybersecurity defenses.
+👩🏽‍💻 Utilize tools such as Splunk SIEM, FireEye HX, CrowdStrike, and CarbonBlack for threat detection, response, and remediation.
+💖 Enthusiastic about advancing security.
+📍 Located in Boston, MA
 
 ## Get Personal
 
