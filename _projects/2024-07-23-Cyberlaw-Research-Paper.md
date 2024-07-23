@@ -3,7 +3,7 @@ title: 'CyberLaw Research Paper'
 subtitle: 'A CyberLaw Research Paper Project at Northeastern University'
 date: 2024-07-22 00:00:00
 description: This is my capstone project at Northeastern University .
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/Cyber-Law-Image.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
