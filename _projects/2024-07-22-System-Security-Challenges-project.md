@@ -1,6 +1,6 @@
 ---
 title: 'System Security Challenges'
-subtitle: 'A System Security Challenges at NEU'
+subtitle: 'A System Security Challenges at Northeastern University'
 date: 2024-07-22 00:00:00
 description: These are security system challenges I worked on while at Northeastern University.
 featured_image: '/images/demo/demo-square.jpg'
