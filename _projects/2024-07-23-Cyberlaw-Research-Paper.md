@@ -6,7 +6,7 @@ description: This is my capstone project at Northeastern University .
 featured_image: '/images/demo/Cyber-Law-Image.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/Cyber-Law-Image.jpg)
 
 ### Cyberlaw Research Paper and Presentation
 
