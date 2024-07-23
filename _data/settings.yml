@@ -14,8 +14,6 @@ menu_settings:
       url: '/project'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
-      url: '/contact'
     - title: 'Thank You'
       url: '/thanks'
 
