@@ -16,6 +16,8 @@ menu_settings:
       url: '/blog/'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Thank You'
+      url: '/thanks'
 
 footer_settings:
   footer_tagline: Vanessa Portfolio.
