@@ -20,8 +20,3 @@ featured_image: /images/demo/about.jpg
 
 📍 Located in Boston, MA
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
