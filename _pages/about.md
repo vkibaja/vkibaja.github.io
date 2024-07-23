@@ -1,7 +1,7 @@
 ---
 title: About me
 description: A little about myself.
-featured_image: /images/demo/about.jpg
+featured_image: /images/demo/NEU-with-Laptop-2.jpg
 ---
 
 ## A little about myself
