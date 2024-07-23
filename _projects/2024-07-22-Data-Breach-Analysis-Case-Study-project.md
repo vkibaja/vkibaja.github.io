@@ -3,7 +3,7 @@ title: 'Data Breach Analysis'
 subtitle: 'A Case Study at Northeastern University'
 date: 2024-07-22 00:00:00
 description: This is a case study where I analyzed data breaches using the MITTRE ATT&CK Framework.
-featured_image: '/images/demo/Data-Breach-Analysis.jpg'
+featured_image: '/images/demo/data-breach-drama-scene.jpg'
 ---
 
 ![](/images/demo/Marriott-Data-Breach-Infographic.jpg)
