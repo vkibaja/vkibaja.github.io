@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog
-description: Expressing my POV on Cybersecurity related topics.
+title: Projects
+description: Some Projects I have had the priviledge to work on.
 featured_image: /images/demo/blog.jpg
 ---
 
@@ -13,8 +13,8 @@ featured_image: /images/demo/blog.jpg
 
 	<div class="wrap">
 
-		<h1>What I've been up to</h1>
-		<p>Expressing my POV on Cybersecurity related topics.</p>
+		<h1>Academic Projects</h1>
+		<p>Here are some Projects I have had the priviledge to work on.</p>
 
 	</div>
 
@@ -48,49 +48,3 @@ featured_image: /images/demo/blog.jpg
 
 </section>
 
-<section class="listing">
-
-	<div class="wrap">
-
-		{% for post in paginator.posts %}
-
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					<p class="post__subtitle">{{ post.subtitle }}</p>
-					<p class="post__description">{{ post.description }}</p>
-				</div>
-			</div>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
-</section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	<div class="wrap">
-
-		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button pagination__prev"><i class="fa fa-arrow-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-		{% endif %}
-		{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button pagination__next"><span>Older Posts</span> <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-		{% endif %}
-
-	</div>
-
-</section>
-
-{% endif %}
