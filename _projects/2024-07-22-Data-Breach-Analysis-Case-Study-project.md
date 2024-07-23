@@ -8,7 +8,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Case Study content
 
 This is a case study where I analyzed data breaches using the **MITTRE ATT&CK Framework**.
 
