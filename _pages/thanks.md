@@ -20,5 +20,3 @@ Feel free to explore these resources to dive into the world of web design and de
 
 Happy creating!"
 
-Warm regards,
-
