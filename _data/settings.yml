@@ -11,7 +11,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Projects'
-      url: '/project/'
+      url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Thank You'
