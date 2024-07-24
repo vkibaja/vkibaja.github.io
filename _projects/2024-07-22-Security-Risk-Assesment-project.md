@@ -7,6 +7,7 @@ featured_image: '/images/demo/Security-Risk-Assesment.jpg'
 ---
 
 ![](/images/demo/Risk-Management-Process.jpg)
+[Security Risk Assessment](https://github.com/user-attachments/files/16367067/Security_Risk_Assesment.pdf)
 
 ### Project Summary: Security Risk Management and Assessment
 
@@ -56,3 +57,5 @@ This project allowed me to apply theoretical knowledge to real-world scenarios, 
 - Preparing comprehensive security documentation and presentations.
 
 Overall, this project was a valuable learning experience, equipping me with practical skills in security risk management and assessment.
+
+[Security Risk Assessment](https://github.com/user-attachments/files/16367067/Security_Risk_Assesment.pdf)
