@@ -17,22 +17,24 @@ April 20th 2021
 
 ## Table of Contents
 
-- Abstract
-- Introduction
-- Description of the 2018 Data Breach at Marriott International Inc.
-   - Source and Motivation of the Attack leading to the Breach
-   - How the Breach was Detected
-   - Amount of Time between Initial Exploit and Detection and Methods used for Exploitation
-   - Type of Data Breached and the Number of Records
-- MITRE ATT&CK Mapping
-- Response, Recovery Actions, and Impact of the Data Breach
-   - Response and Recovery Actions that were taken by Marriott
-   - Authorities and Industry Peers
-   - Notification to Impacted Users and Authorities
-   - Assessment of the Impact of the Breach on Regulated and Industry, Related Breaches
-   - What I would have Done Differently if I were Handling Post Breach Procedures
-- Conclusion
-- Bibliography
+| Table of Contents    | 
+|----------------------|
+| Abstract           | 
+| Introduction       |
+| Description of the 2018 Data Breach at Marriott International Inc.| 
+|   `Source and Motivation of the Attack leading to the Breach` |
+|   `How the Breach was Detected`|
+|   `Amount of Time between Initial Exploit and Detection and Methods used for Exploitation`|
+|    `Type of Data Breached and the Number of Records`|
+| MITRE ATT&CK Mapping|
+| Response, Recovery Actions, and Impact of the Data Breach|
+|    `Response and Recovery Actions that were taken by Marriott`|
+|   `Authorities and Industry Peers`|
+|    `Notification to Impacted Users and Authorities`|
+|  `Assessment of the Impact of the Breach on Regulated and Industry, Related Breaches`|
+|  `What I would have Done Differently if I were Handling Post Breach Procedures`|
+| Conclusion|
+| Bibliography|
 
 
 ## Abstract
