@@ -3,10 +3,10 @@ title: 'Security Risk Assessment'
 subtitle: 'A Security Risk Assessment at Northeastern University'
 date: 2024-07-22 00:00:00
 description: Performed a security risk assesment to an organization of my choice.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/Security-Risk-Assesment.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/Risk-Management-Process.jpg)
 
 ### Project Summary: Security Risk Management and Assessment
 
