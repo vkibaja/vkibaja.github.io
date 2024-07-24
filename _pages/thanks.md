@@ -13,10 +13,12 @@ Thanks for getting to know me and reviewing my portfolio. I hope you enjoyed exp
 
 Feel free to explore these resources to dive into the world of web design and development using GitHub Pages and Jekyll Themes. Whether you're a seasoned pro or just starting out, you'll find valuable insights and inspiration here:
 
-- [Link to GitHub Pages Tutorial]
-- [Link to Jekyll Themes Guide]
-- [Link to Web Design Best Practices]
-- [Link to HTML/CSS Basics]
+- [GitHub Pages](https://pages.github.com)
+- [GitHub Pages Youtube Tutorial](https://www.youtube.com/watch?v=QyFcl_Fba-k)
+- [Jekyll Themes Guide](https://jekyllrb.com/docs/themes/)
+- [Jekyll Themes Guide 2](https://jekyllthemes.io)
+- [Jekyll Tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI&t=49s)
+- [Link to Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
 Happy creating!"
 
