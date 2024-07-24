@@ -34,3 +34,6 @@ All sources used in the research are cited according to Kate L. Turabian’s Man
 This case study not only provides a detailed analysis of a specific data breach but also integrates technical and contextual cybersecurity concepts learned throughout the course. The goal is to develop a comprehensive understanding of data breaches and enhance my ability to propose effective countermeasures.
 
 [Data Breach Analysis Case Study](https://github.com/user-attachments/files/16367083/Data.Breach.Analysis.Case.Study.Paper.pdf)
+
+
+[TY Page](_pages/thanks.md)
