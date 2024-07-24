@@ -70,13 +70,8 @@ For this project, I developed detailed playbooks for the following scenarios:
    - **Recovery:** Restore affected files and verify system integrity.
 
 This Incident Response Playbook ensures that "Viva la Vita Online" is prepared to respond effectively to various cybersecurity incidents, enhancing our overall security posture and resilience.
-
-[Incident Response Playbook](https://vkibaja.github.io/assets/Incidence_Response_Playbook_VK.pdf)
  
 Provided written guidance for detecting, responding, and recovering from each of the three incidents.
 
-[Sample PDF](https://vkibaja.github.io/assets/Incidence_Response_Playbook_VK.pdf){:target="_blank"}
-
-<a href="https://vkibaja.github.io/assets/Incidence_Response_Playbook_VK.pdf" target="_blank">Sample HTML PDF</a>
-
+[Incident Response Playbook](https://vkibaja.github.io/assets/Incidence_Response_Playbook_VK.pdf)
 
