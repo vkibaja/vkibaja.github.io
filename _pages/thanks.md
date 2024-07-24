@@ -5,7 +5,7 @@ description: Thank you for getting to know me.
 featured_image: /images/demo/NEU-with-Laptop-2.jpg
 ---
 
-![](/images/demo/Maybe.jpg)
+![](/images/demo/TY.jpg)
 
 **Hi there!** 👋
 
