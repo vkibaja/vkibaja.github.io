@@ -7,7 +7,7 @@ featured_image: '/images/demo/data-breach-drama-scene.jpg'
 ---
 
 ![](/images/demo/Marriott-Data-Breach-Infographic.jpg)
-
+[Data Breach Analysis Case Study](https://github.com/user-attachments/files/16367083/Data.Breach.Analysis.Case.Study.Paper.pdf)
 
 ### Data Breach Analysis Case Study Paper Summary
 
@@ -32,3 +32,5 @@ The paper concludes with a summary of the key points discussed and the lessons l
 All sources used in the research are cited according to Kate L. Turabian’s Manual for Writers of Research Papers, Theses, and Dissertations.
 
 This case study not only provides a detailed analysis of a specific data breach but also integrates technical and contextual cybersecurity concepts learned throughout the course. The goal is to develop a comprehensive understanding of data breaches and enhance my ability to propose effective countermeasures.
+
+[Data Breach Analysis Case Study](https://github.com/user-attachments/files/16367083/Data.Breach.Analysis.Case.Study.Paper.pdf)
