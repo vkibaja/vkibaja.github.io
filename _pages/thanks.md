@@ -2,7 +2,7 @@
 title: Thank you
 subtitle: Thank you for getting to know me.
 description: Thank you for getting to know me.
-featured_image: /images/demo/contact.jpg
+featured_image: /images/demo/NEU-with-Laptop-2.jpg
 ---
 
 ![](/images/demo/NEU-with-Laptop-2.jpg)
