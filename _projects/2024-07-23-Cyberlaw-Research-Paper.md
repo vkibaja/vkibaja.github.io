@@ -10,7 +10,7 @@ featured_image: '/images/demo/Cyber-Law-Image.jpg'
 
 [CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
 
-[Cyberlaw Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
+[Click to download my Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
 
 ### Cyberlaw Research Paper and Presentation
 
@@ -53,4 +53,4 @@ This mid-term project provided a valuable opportunity to delve deeper into a spe
 
 [CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
 
-[Cyberlaw Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
+[Click to download my Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
