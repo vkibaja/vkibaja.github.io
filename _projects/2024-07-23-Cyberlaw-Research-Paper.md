@@ -7,7 +7,10 @@ featured_image: '/images/demo/Cyber-Law-Image.jpg'
 ---
 
 ![](/images/demo/Cyberlaw-project.jpg)
-[CyberLaw Research Paper](https://github.com/user-attachments/files/16366982/Team_Blue_CY5240_Midterm_Paper.pdf) | [Cyberlaw Presentation](https://github.com/user-attachments/files/16367026/Cyberlaw-midterm-presentation.pptx)
+
+[CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
+
+[Cyberlaw Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
 
 ### Cyberlaw Research Paper and Presentation
 
@@ -48,4 +51,6 @@ We adhered to Northeastern University’s commitment to intellectual honesty and
 
 This mid-term project provided a valuable opportunity to delve deeper into a specific Cyberlaw issue, enhancing both our research skills and our understanding of the complex legal landscape surrounding digital rights, privacy, and ethics.
 
-[CyberLaw Research Paper](https://github.com/user-attachments/files/16366982/Team_Blue_CY5240_Midterm_Paper.pdf) | [Cyberlaw Presentation](https://github.com/user-attachments/files/16367026/Cyberlaw-midterm-presentation.pptx)
+[CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
+
+[Cyberlaw Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
