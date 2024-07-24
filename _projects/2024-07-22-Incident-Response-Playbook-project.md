@@ -8,6 +8,8 @@ featured_image: '/images/demo/Incident-Response.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
+[Incident Response Playbook](https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf)
+
 ### Incident Response Playbook Summary
 
 As part of my role as the Incident Response Manager at "Viva la Vita Online," an online store specializing in vitamins and food supplements, I developed a comprehensive Incident Response Playbook to address various cybersecurity incident scenarios. This project was crucial for ensuring that our organization can systematically and effectively respond to potential security threats.
@@ -68,6 +70,8 @@ For this project, I developed detailed playbooks for the following scenarios:
    - **Recovery:** Restore affected files and verify system integrity.
 
 This Incident Response Playbook ensures that "Viva la Vita Online" is prepared to respond effectively to various cybersecurity incidents, enhancing our overall security posture and resilience.
+
+[Incident Response Playbook](https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf)
 
    
 Provided written guidance for detecting, responding, and recovering from each of the three incidents.
