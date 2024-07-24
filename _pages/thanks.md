@@ -17,7 +17,7 @@ Feel free to explore these resources to dive into the world of web design and de
 - [GitHub Pages Youtube Tutorial](https://www.youtube.com/watch?v=QyFcl_Fba-k)
 - [Jekyll Themes Guide](https://jekyllrb.com/docs/themes/)
 - [Jekyll Themes Guide 2](https://jekyllthemes.io)
-- [Jekyll Tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI&t=49s)
+- [Jekyll Youtube Tutorial](https://www.youtube.com/watch?v=T1itpPvFWHI&t=49s)
 - [Link to Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
 Happy creating!"
