@@ -8,7 +8,7 @@ featured_image: '/images/demo/Incident-Response.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-[Incident Response Playbook](https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf)
+[Incident Response Playbook](assets/Incidence_Response_Playbook_VK.pdf)
 
 ### Incident Response Playbook Summary
 
@@ -71,12 +71,12 @@ For this project, I developed detailed playbooks for the following scenarios:
 
 This Incident Response Playbook ensures that "Viva la Vita Online" is prepared to respond effectively to various cybersecurity incidents, enhancing our overall security posture and resilience.
 
-[Incident Response Playbook](https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf)
+[Incident Response Playbook](assets/Incidence_Response_Playbook_VK.pdf)
  
 Provided written guidance for detecting, responding, and recovering from each of the three incidents.
 
-[Open Sample PDF](projects/Incidence_Response_Playbook_VK.pdf){:target="_blank"}
+[Open Sample PDF](assets/Incidence_Response_Playbook_VK.pdf){:target="_blank"}
 
-<a href="https://projects/Incidence_Response_Playbook_VK.pdf" target="_blank">Open Sample HTML PDF</a>
+<a href="https://assets/Incidence_Response_Playbook_VK.pdf" target="_blank">Open Sample HTML PDF</a>
 
 
