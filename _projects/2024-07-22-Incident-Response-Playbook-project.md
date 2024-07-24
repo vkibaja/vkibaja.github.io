@@ -75,8 +75,8 @@ This Incident Response Playbook ensures that "Viva la Vita Online" is prepared t
  
 Provided written guidance for detecting, responding, and recovering from each of the three incidents.
 
-[Open Sample PDF](https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf){:target="_blank"}
+[Open Sample PDF](projects/Incidence_Response_Playbook_VK.pdf){:target="_blank"}
 
-<a href="https://github.com/user-attachments/files/16367079/Incidence_Response_Playbook_VK.pdf" target="_blank">Open Sample HTML PDF</a>
+<a href="https://projects/Incidence_Response_Playbook_VK.pdf" target="_blank">Open Sample HTML PDF</a>
 
 
