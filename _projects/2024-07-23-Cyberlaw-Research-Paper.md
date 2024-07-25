@@ -10,9 +10,7 @@ featured_image: '/images/demo/Cyber-Law-Image.jpg'
 
 [CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
 
-[Click to download my Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
-
-### Cyberlaw Research Paper and Presentation
+### Section 230 - Research Paper
 
 #### Overview
 For my project in the "Cyberlaw: Ethics, Privacy, and Digital Rights" course, I worked as part of a group to create a comprehensive research paper and accompanying presentation. The project focused on exploring and analyzing a specific topic within the realm of Cyberlaw, drawing from the subjects covered in the first eight weeks of the class. This project aimed to deepen our understanding of critical Cyberlaw issues through independent research and collaborative discussion.
@@ -44,10 +42,7 @@ Our research paper covered the following key points:
   
    > In the lower court: The plaintiff made six claims under the Anti-Terrorism Act, 18 U.S.C. § 2333, but the court dismissed all of them, citing the Communications Decency Act, 47 U.S.C. § 230, which protects providers of online content from being treated as the publisher or speaker of information provided by another content provider.
 
-To discover the outcome of the case and our detailed analysis, please review our full paper.
+To discover the outcome of the case and our detailed analysis, please review our [full paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf).
 
 This project provided a valuable opportunity to delve deeper into the complexities of Section 230: Communications Decency Act (CDA), enhancing our research skills and understanding of the legal landscape surrounding digital rights, privacy, and ethics.
 
-[CyberLaw Research Paper](https://vkibaja.github.io/assets/Team_Blue_CY5240_Midterm_Paper.pdf) 
-
-[Click to download my Presentation](https://vkibaja.github.io/assets/Cyberlaw-midterm-presentation.pptx)
