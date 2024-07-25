@@ -16,7 +16,7 @@ As part of my role as the Incident Response Manager at "Viva la Vita Online," an
 
 The "Viva la Vita Online Incident Response Playbook" is a comprehensive guide outlining the procedures for managing cyber incidents within the organization. This playbook identifies key roles within the Cyber Incident Response Team (CIRT) and specifies their responsibilities. It offers detailed response strategies for various scenarios, ensuring a structured approach to incident detection, analysis, containment, eradication, and recovery.
 
-Key Components:
+#### Key Components:
 - **Incident Response Team (CIRT) Composition**: Defines roles including the Incident Response Manager, Security Analyst, CISO, CIO/CTO, and other essential personnel, ensuring 24/7 availability and proper training for effective incident management.
 - **General Incident Response Plan**: A step-by-step guide to prepare for, detect, analyze, contain, eradicate, and recover from incidents, with a focus on minimizing damage and restoring normal operations.
 - **Detailed Scenarios**:
