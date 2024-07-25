@@ -2,7 +2,7 @@
 title: 'Incident Response Playbook'
 subtitle: 'A Project at Northeastern University'
 date: 2021-04-15 00:00:00
-description: This is a project where I acted as an Incident Response Manager and created Incident Response Playbook.
+description: Acted as an Incident Response Manager and created an Incident Response Playbook for "Viva la Vita Online," ensuring effective management of cybersecurity incidents. The playbook covers detection, analysis, and recovery for threats like unauthorized access and SQL injections.
 featured_image: '/images/demo/IR-Playbook.jpg'
 ---
 
