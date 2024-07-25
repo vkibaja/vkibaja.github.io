@@ -6,7 +6,7 @@ description: This is a case study where I analyzed data breaches using the MITTR
 featured_image: '/images/demo/data-breach-drama-scene.jpg'
 ---
 
-![](/images/demo/Marriott-Data-Breach-Infographic.jpg)
+![](/images/demo/Marriott-Data-Breach.jpg)
 
 [Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf)
 
