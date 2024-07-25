@@ -16,7 +16,7 @@ In my comprehensive analysis of the 2018 data breach at Marriott International I
 
 The breach was discovered on September 7, 2018, by an IBM Guardium database alert tool, revealing that the attackers had been infiltrating the system since 2014. The hackers employed various sophisticated tactics outlined in the MITRE ATT&CK Framework, including exploiting software vulnerabilities and using malware such as Remote Access Trojans (RATs).
 
-![](/images/demo/Mitre-Attaxk-Mapping.jpg)
+![](/images/demo/Mitre-Attack-Mapping.jpg)
 
 Marriott's response involved substantial containment measures and infrastructure changes, including disabling compromised accounts, resetting passwords, and implementing multi-factor authentication. However, the company's delay in notifying users and the public drew criticism and led to significant legal repercussions.
 
