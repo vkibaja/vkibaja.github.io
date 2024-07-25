@@ -3,7 +3,7 @@ title: 'Incident Response Playbook'
 subtitle: 'A Project at Northeastern University'
 date: 2024-07-22 00:00:00
 description: This is a project where I acted as an Incident Response Manager and created Incident Response Playbook.
-featured_image: '/images/demo/Incident-Response.jpg'
+featured_image: '/images/demo/IR-Playbook.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
