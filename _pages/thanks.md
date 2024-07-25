@@ -5,6 +5,8 @@ description: Thank you for getting to know me.
 featured_image: /images/demo/NEU-with-Laptop-2.jpg
 ---
 
+![](/images/demo/demo-landscape.jpg)
+
 **Hi there!** 👋
 
 Thank you so much for taking the time to learn more about me. I hope you enjoyed exploring my work as much as I enjoyed creating it. Your visit means a lot to me, and I truly appreciate your interest.
