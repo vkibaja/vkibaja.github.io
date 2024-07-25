@@ -2,7 +2,7 @@
 title: 'Data Breach Analysis'
 subtitle: 'A Case Study at Northeastern University'
 date: 2021-04-20 00:00:00
-description: Inside the 2018 Marriott Data Breach.I examine how Chinese state hackers exposed sensitive information of up to 500 million guests and evaluate Marriott's response and its implications for data privacy and cybersecurity practices.
+description: Inside the 2018 Marriott Data Breach. I examine how hackers exposed sensitive information of up to 500 million guests and evaluate Marriott's response and its implications for data privacy and cybersecurity practices.
 featured_image: '/images/demo/data-breach-drama-scene.jpg'
 ---
 
