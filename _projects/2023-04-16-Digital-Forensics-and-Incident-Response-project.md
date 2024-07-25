@@ -8,7 +8,7 @@ featured_image: '/images/demo/DFIR.jpg'
 
 ![](/images/demo/DFIR-MacOS-Code.jpg)
 
-[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) | [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
+[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) : [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
 
 ### Digital Forensics & Incident Response (DFIR) Toolkit
 
@@ -42,4 +42,4 @@ In addition to our DFIR toolkit, we developed a MacOS System Information Tool th
 
 Our project not only accelerates the forensic analysis process but also ensures accuracy and standardization, making it a valuable asset for digital forensic investigations. For more details on the tools, techniques, and results of our project, I invite you to review our project.
 
-[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) | [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
+[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) : [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
