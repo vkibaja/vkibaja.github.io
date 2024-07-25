@@ -2,7 +2,7 @@
 title: 'Digital Forensics and Incident Response (DFIR)'
 subtitle: 'A DFIR Project at Northeastern University'
 date: 2023-04-16 00:00:00
-description: This is my capstone project at Northeastern University .
+description: Developed a DFIR toolkit and MacOS System Information Tool to enhance forensic analysis efficiency and accuracy, providing powerful tools and clear guidelines for modern cybercrime investigations.
 featured_image: '/images/demo/DFIR.jpg'
 ---
 
