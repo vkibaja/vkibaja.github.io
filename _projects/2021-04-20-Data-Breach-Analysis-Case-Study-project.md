@@ -22,7 +22,7 @@ Marriott's response involved substantial containment measures and infrastructure
 
 This case study not only assesses the immediate impact of the breach but also examines the broader implications for data privacy legislation and industry practices. My analysis provides critical insights into the methods and motivations of state-sponsored cyber attacks and highlights essential lessons for improving cybersecurity protocols.
 
-For a deeper understanding of the technical details and the broader context of this data breach, I invite you to read the full paper. [Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf)
+For a deeper understanding of the technical details and the broader context of this data breach, I invite you to read the [full paper](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf).
 
 This case study not only provides a detailed analysis of the Marriott data breach but also integrates technical and contextual cybersecurity concepts learned throughout the course. The goal was to develop a comprehensive understanding of data breaches and enhance my ability to propose effective countermeasures.
 
