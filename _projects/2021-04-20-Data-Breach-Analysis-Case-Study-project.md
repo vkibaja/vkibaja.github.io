@@ -1,7 +1,7 @@
 ---
 title: 'Data Breach Analysis'
 subtitle: 'A Case Study at Northeastern University'
-date: 2024-07-22 00:00:00
+date: 2021-04-20 00:00:00
 description: Inside the 2018 Marriott Data Breach.    A Detailed Case Study.
 featured_image: '/images/demo/data-breach-drama-scene.jpg'
 ---
