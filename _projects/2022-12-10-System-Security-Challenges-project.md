@@ -26,7 +26,7 @@ I also tested and defeated various countermeasures, including address randomizat
 
 I explored the implementation and configuration of SELinux policies to secure a custom binary application named testprog. Initially, the application ran in an unconfined context despite SELinux being in enforcing mode. I investigated this behavior by observing the inherited contexts and created a custom SELinux policy to properly confine the application. The project involved modifying filesystem contexts and policy files to enforce security restrictions effectively.
 
-Through this process, I demonstrated the ability to manage and troubleshoot SELinux contexts and policies, ensuring that the testprog application adhered to the desired security constraints. This hands-on experience highlights my proficiency in enhancing system security using SELinux, providing valuable insights into policy management and enforcement. For a detailed breakdown of each step and the technical intricacies, please refer to the [full documentation](https://vkibaja.github.io/assets/Lab_3_SELinuc_VK.pdf).
+Through this process, I demonstrated the ability to manage and troubleshoot SELinux contexts and policies, ensuring that the testprog application adhered to the desired security constraints. This hands-on experience highlights my proficiency in enhancing system security using SELinux, providing valuable insights into policy management and enforcement. For a detailed breakdown of each step and the technical intricacies, please refer to the [full documentation](https://vkibaja.github.io/assets/Lab_3_SELinux_VK.pdf).
 
 
 ### 3. Enhancing Web Application Security Against CSRF Attacks
