@@ -2,7 +2,7 @@
 title: 'CyberLaw Research Paper'
 subtitle: 'A CyberLaw Research Paper Project at Northeastern University'
 date: 2023-03-18 00:00:00
-description: This is my capstone project at Northeastern University .
+description: Created a research paper and presentation on Section 230 of the Communications Decency Act (CDA). Explored its significance in Cyberlaw through the Gonzalez v. Google (2018) case, analyzed if Google's operation of YouTube supported ISIS in the Paris attacks.
 featured_image: '/images/demo/Cyber-Law-Image.jpg'
 ---
 
