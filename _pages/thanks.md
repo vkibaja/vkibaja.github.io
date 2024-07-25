@@ -9,7 +9,9 @@ featured_image: /images/demo/NEU-with-Laptop-2.jpg
 
 Thank you so much for taking the time to learn more about me. I hope you enjoyed exploring my work as much as I enjoyed creating it. Your visit means a lot to me, and I truly appreciate your interest.
 
-> "If you can dream it, you can do it." – Walt Disney
+> "If you can dream it, you can do it."
+
+– Walt Disney
 
 If you found my website inspiring and want to create something similar, you’re in luck! I’ve compiled some fantastic resources and guides that can help you kickstart your own journey into the world of web design and development. Whether you’re a seasoned pro or just starting out, these resources are packed with valuable insights and inspiration:
 
