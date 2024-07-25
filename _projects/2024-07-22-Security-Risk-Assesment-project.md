@@ -44,11 +44,9 @@ This section provided a comprehensive list of recommended controls, methods, and
 1. **Implementation Costs and Benefits:** Detailed the costs and benefits of proposed security measures.
 2. **Comparative Analysis:** Compared the security budgets and risk improvement metrics between HGA and my company, adjusted for industry-specific factors.
 
-**Appendices**
-Included detailed risk calculations, network topology diagrams, and additional data or analyses not covered in the main sections.
-
 #### Key Deliverables
-The final deliverables included a well-structured MS-Word document with all the required sections, tables, and figures. It also featured an executive presentation summarizing the key findings and recommendations, comparing the security risk management strategies of HGA and my company.
+The final deliverables included a well-structured document featuring an executive presentation summarizing the key findings and recommendations, comparing the security risk management strategies of HGA and my company. Included detailed risk calculations, network topology diagrams, and additional data or analyses not covered in the main sections.
+
 
 #### Learning Outcomes
 This project allowed me to apply theoretical knowledge to real-world scenarios, enhancing my understanding of:
