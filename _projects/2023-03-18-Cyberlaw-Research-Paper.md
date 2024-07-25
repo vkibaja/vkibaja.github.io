@@ -21,13 +21,12 @@ The primary objectives of this project were to:
 2. Formulate a relevant and engaging topic.
 3. Share the research findings with the class to enhance collective knowledge.
 
-#### Paper Requirements
-**Topic Selection:**
+#### Topic Selection
 We had the opportunity to choose any topic related to Cyberlaw covered in our course, including jurisdiction, trademarks, patents, copyrights, and privacy. We selected "Section 230: Communications Decency Act (CDA)" due to its significant impact within the field of Cyberlaw and its relevance to current issues.
 
 Our research paper covered the following key points:
 - **The Importance of Section 230 in Cyberlaw**: We explained why Section 230 is crucial and the reasons for selecting this topic.
-- Case Study - [Gonzalez v. Google (2018):](https://www.supremecourt.gov/opinions/22pdf/21-1333_6j7a.pdf)
+- **Case Study**: [Gonzalez v. Google (2018):](https://www.supremecourt.gov/opinions/22pdf/21-1333_6j7a.pdf)
      
    >The case of Gonzalez v. Google 335 F.Supp.3d 1156 (2018) involved a civil lawsuit filed against Google by the family of Nohemi Gonzalez, who was killed in the Paris terrorist attacks carried out by ISIS. The plaintiff alleged that Google's ownership and operation of YouTube aided ISIS in communicating and recruiting, thereby contributing to the attacks.
 
