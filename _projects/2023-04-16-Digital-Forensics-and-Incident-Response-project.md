@@ -6,7 +6,7 @@ description: This is my capstone project at Northeastern University .
 featured_image: '/images/demo/DFIR.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/demo/DFIR-MacOS-Code.jpg)
 
 ### Project Summary: Digital Forensics & Incident Response (DFIR) Toolkit
 
