@@ -8,6 +8,8 @@ featured_image: '/images/demo/DFIR.jpg'
 
 ![](/images/demo/DFIR-MacOS-Code.jpg)
 
+[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) | [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
+
 ### Digital Forensics & Incident Response (DFIR) Toolkit
 
 In the rapidly evolving field of digital forensics and incident response, traditional methods of manually analyzing digital data are increasingly insufficient. Our project addresses these challenges by developing a comprehensive DFIR toolkit designed to streamline the analysis and processing of digital evidence. This toolkit integrates various tools and techniques, allowing forensic analysts to efficiently gather and examine digital artifacts related to cybercrime or security incidents.
