@@ -6,7 +6,7 @@ featured_image: /images/demo/NEU-with-Laptop-2.jpg
 
 ## A little about myself
 
-👩🏽 Hi there! I'm **Vanessa Kibaja**.
+👩🏽 My name is **Vanessa Kibaja**.
 
 💼 As a dedicated **cybersecurity professional** and **incident response expert**, I thrive on the challenge of keeping digital landscapes secure.
 
