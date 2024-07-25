@@ -2,7 +2,7 @@
 title: 'Security Risk Assessment'
 subtitle: 'A Security Risk Assessment at Northeastern University'
 date: 2024-07-22 00:00:00
-description: Developed Comprehensive Security Risk Management Plans for HGA and GrubHub: A Practical Application.
+description: Developed Comprehensive Security Risk Management Plans for HGA and GrubHub. A Practical Application.
 featured_image: '/images/demo/Security-Risk-Assesment.jpg'
 ---
 
