@@ -8,7 +8,7 @@ featured_image: '/images/demo/data-breach-drama-scene.jpg'
 
 ![](/images/demo/Marriott-Data-Breach.jpg)
 
-[Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf)
+[Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data-Breach-Analysis-Case-Study-Paper.pdf)
 
 ### A Brief Summary of the Marriott Data Breach Analysis Case Study
 
