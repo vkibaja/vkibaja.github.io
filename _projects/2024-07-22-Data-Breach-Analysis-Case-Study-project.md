@@ -10,28 +10,18 @@ featured_image: '/images/demo/data-breach-drama-scene.jpg'
 
 [Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf)
 
-### Data Breach Analysis Case Study Paper Summary
+### A Brief Summary of the Marriott Data Breach Analysis Case Study
 
-For my Data Breach Analysis Case Study Paper, I selected a data breach incident to examine and analyze in detail. This project is intended to span over the course duration, allowing me to integrate various cybersecurity concepts covered in class into my analysis.
+In my comprehensive analysis of the 2018 data breach at Marriott International Inc., I delve into the intricacies of one of the most significant data breaches in American history. The breach, attributed to Chinese state hackers, exposed the personal data of up to 500 million guests. This included sensitive information such as passport numbers, addresses, credit cards, and more.
 
-#### Introduction
-The paper begins with an introduction to the chosen data breach incident, providing a brief overview of the context and the significance of the breach. I aim to set the stage for a thorough analysis by highlighting the importance of understanding data breaches in today's cybersecurity landscape.
+The breach was discovered on September 7, 2018, by an IBM Guardium database alert tool, revealing that the attackers had been infiltrating the system since 2014. The hackers employed various sophisticated tactics outlined in the MITRE ATT&CK Framework, including exploiting software vulnerabilities and using malware such as Remote Access Trojans (RATs).
 
-#### Description of the Data Breach
-In this section, I delve into the specifics of the data breach, starting with the source and motivation behind the attack. I detail how the breach was detected, including the technical aspects and the timeline between the initial exploit and detection. I also cover the methods used for exploitation and the type and number of records breached.
+Marriott's response involved substantial containment measures and infrastructure changes, including disabling compromised accounts, resetting passwords, and implementing multi-factor authentication. However, the company's delay in notifying users and the public drew criticism and led to significant legal repercussions.
 
-#### Mapping to the MITRE ATT&CK Framework
-Using the MITRE ATT&CK Framework, I identify the attack tactics and techniques used in the incident. This mapping helps in understanding the adversary's behavior and the steps they took to execute the breach.
+This case study not only assesses the immediate impact of the breach but also examines the broader implications for data privacy legislation and industry practices. My analysis provides critical insights into the methods and motivations of state-sponsored cyber attacks and highlights essential lessons for improving cybersecurity protocols.
 
-#### Response, Recovery Actions, and Impact
-I analyze the response and recovery actions taken by the organization involved, as well as the role of authorities and industry peers. This section includes notifications to impacted users and authorities, and an assessment of the breach's impact on regulations and the industry. I also reflect on what I would have done differently in handling post-breach procedures, focusing on incident response and controls.
+For a deeper understanding of the technical details and the broader context of this data breach, I invite you to read the full paper.
 
-#### Concluding Remarks
-The paper concludes with a summary of the key points discussed and the lessons learned from the data breach analysis. I emphasize the importance of proactive security measures and continuous improvement in incident response strategies.
-
-#### References
-All sources used in the research are cited according to Kate L. Turabian’s Manual for Writers of Research Papers, Theses, and Dissertations.
-
-This case study not only provides a detailed analysis of a specific data breach but also integrates technical and contextual cybersecurity concepts learned throughout the course. The goal is to develop a comprehensive understanding of data breaches and enhance my ability to propose effective countermeasures.
+This case study not only provides a detailed analysis of the Marriott data breach but also integrates technical and contextual cybersecurity concepts learned throughout the course. The goal was to develop a comprehensive understanding of data breaches and enhance my ability to propose effective countermeasures.
 
 [Data Breach Analysis Case Study](https://vkibaja.github.io/assets/Data.Breach.Analysis.Case.Study.Paper.pdf)
