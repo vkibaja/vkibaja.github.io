@@ -38,6 +38,7 @@ Our research paper covered the following key points:
    - Know the attack was coming
    - Conceal complicity
 
+
 - **Case Analysis**: Our analysis of the case and related issues was based primarily on our own insights, supported by minimal citations. We discussed the proceedings in the lower court, appellate court, oral argument, and supreme court.
   
    > In the lower court: The plaintiff made six claims under the Anti-Terrorism Act, 18 U.S.C. § 2333, but the court dismissed all of them, citing the Communications Decency Act, 47 U.S.C. § 230, which protects providers of online content from being treated as the publisher or speaker of information provided by another content provider.
