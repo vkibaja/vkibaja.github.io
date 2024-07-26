@@ -8,7 +8,7 @@ featured_image: '/images/demo/DFIR.jpg'
 
 ![](/images/demo/DFIR-MacOS-Code.jpg)
 
-[Project on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main)
+[DFIR Project on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main)
 
 ### Digital Forensics & Incident Response (DFIR) Toolkit
 
