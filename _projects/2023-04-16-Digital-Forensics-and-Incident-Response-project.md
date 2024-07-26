@@ -8,7 +8,7 @@ featured_image: '/images/demo/DFIR.jpg'
 
 ![](/images/demo/DFIR-MacOS-Code.jpg)
 
-[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) : [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
+[Project on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main)
 
 ### Digital Forensics & Incident Response (DFIR) Toolkit
 
@@ -40,6 +40,6 @@ In addition to our DFIR toolkit, we developed a MacOS System Information Tool th
 - **Process Analysis**: Information about running processes, including memory usage and status.
 - **File and Folder Analysis**: Insights into specific files and directories, including size and modification time.
 
-Our project not only accelerates the forensic analysis process but also ensures accuracy and standardization, making it a valuable asset for digital forensic investigations. For more details on the tools, techniques, and results of our project, I invite you to review our project.
+Our project not only accelerates the forensic analysis process but also ensures accuracy and standardization, making it a valuable asset for digital forensic investigations. For more details on the tools, techniques, and results of our project, I invite you to review [our project on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main).
 
-[Documentation](https://vkibaja.github.io/assets/MacOS_Documentation.docx) : [MacOS Code](https://vkibaja.github.io/assets/MacOS.py) 
+
