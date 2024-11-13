@@ -8,7 +8,7 @@ featured_image: '/images/demo/My-Journey-to-Cybersecurity.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-### From Curious Beginner to Cybsersecurity Specialist.
+### From Curious Beginner to Cybersecurity Specialist.
 
 #### Introduction:
 
