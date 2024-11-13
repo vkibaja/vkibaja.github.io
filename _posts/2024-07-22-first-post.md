@@ -2,7 +2,7 @@
 title: 'My Journey in Cybersecurity'
 subtitle: 'From Curious Beginner to Aspiring Professional.'
 date: 2024-07-22 00:00:00
-description: Diving into my journey from tech enthusiast to cybersecurity professional, highlighting hands-on experiences, key projects, and the personal philosophy that drives my approach to securing digital environments. Join me as I share the skills, insights, and values that fuel my commitment to making an impact in the field of cybersecurity..
+description: Highlighting hands-on experiences, key projects, and the personal philosophy that drives my approach to securing digital environments. Join me as I share the skills, insights, and values that fuel my commitment to making an impact in the field of cybersecurity.
 featured_image: '/images/demo/My-Journey-to-Cybersecurity.jpg'
 ---
 
