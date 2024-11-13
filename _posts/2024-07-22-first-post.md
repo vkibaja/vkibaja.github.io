@@ -2,7 +2,7 @@
 title: 'My Journey in Cybersecurity'
 date: 2024-07-22 00:00:00
 description: From Curious Beginner to Aspiring Professional.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/demo/my-journey-to-cybersecurity.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
