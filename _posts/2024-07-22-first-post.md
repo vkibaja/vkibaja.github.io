@@ -7,7 +7,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-### My Journey in Cybersecurity: From Curious Beginner to Aspiring Professional
+### From Curious Beginner to Aspiring Professional
 
 #### Introduction:
 
