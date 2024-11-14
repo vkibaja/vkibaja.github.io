@@ -33,12 +33,12 @@ With a solid technical foundation, I transitioned to a corporate IT role at Grub
 
 Over the years, I’ve developed a diverse skill set:
 
-1. **Technical Troubleshooting & Repair**: My time at Geek Squad provided a strong foundation in diagnosing and repairing systems, virus removal, and educating clients on cybersecurity basics.
-2. **Incident Response & Threat Analysis**: In financial cybersecurity roles, I used tools like Splunk and CrowdStrike to monitor threats and respond to incidents, collaborating with cross-functional teams for remediation.
-3. **Digital Forensics & Investigations**: I’ve investigated compromised accounts, analyzed digital evidence, and ensured account security through in-depth analysis.
-4. **SIEM & Security Tools**: My hands-on experience with SIEM tools allows me to monitor networks, analyze logs, and hunt for threats effectively.
-5. **Client Communication**: Translating technical findings into actionable insights for non-technical stakeholders has been key to my approach, ensuring clear, empathetic communication in security situations.
-6. **Scripting & Automation**: I leverage scripting to streamline processes like log analysis and incident reporting, saving time and enhancing efficiency.
+- **Technical Troubleshooting & Repair**: My time at Geek Squad provided a strong foundation in diagnosing and repairing systems, virus removal, and educating clients on cybersecurity basics.
+- **Incident Response & Threat Analysis**: In financial cybersecurity roles, I used tools like Splunk and CrowdStrike to monitor threats and respond to incidents, collaborating with cross-functional teams for remediation.
+- **Digital Forensics & Investigations**: I’ve investigated compromised accounts, analyzed digital evidence, and ensured account security through in-depth analysis.
+- **SIEM & Security Tools**: My hands-on experience with SIEM tools allows me to monitor networks, analyze logs, and hunt for threats effectively.
+- **Client Communication**: Translating technical findings into actionable insights for non-technical stakeholders has been key to my approach, ensuring clear, empathetic communication in security situations.
+- **Scripting & Automation**: I leverage scripting to streamline processes like log analysis and incident reporting, saving time and enhancing efficiency.
 
 Each of these skill areas represents a key part of my professional toolkit. Together, they empower me to tackle a wide range of cybersecurity challenges, from technical diagnostics to high-stakes incident response, all with a strong emphasis on protecting organizational assets and enhancing security resilience.
 
