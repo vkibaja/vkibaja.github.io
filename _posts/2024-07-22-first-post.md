@@ -14,8 +14,8 @@ featured_image: '/images/demo/My-Journey-to-Cybersecurity.jpg'
 
 Welcome to my first blog post! I’m excited to take you beyond the bullet points of my resume and share a closer look at my journey in cybersecurity—what drives me, the hands-on skills I’ve developed, and the experiences that have shaped me as a professional. My aim here is to give you real insight into the passion and dedication I bring to cybersecurity, not just as a job, but as a field I truly believe in. I invite you to join me in exploring my career story, lessons learned along the way, and my perspective on the evolving landscape of cybersecurity.
 
+
 ### My Background:
----
 
 Growing up in Tanzania, my first exposure to the tech world came from helping my mom with her liquor business, tracking inventory and balancing handwritten records. Fascinated by how technology could improve her business, I was driven by a curiosity that grew stronger when I first took computer classes in high school. This initial fascination set me on a path toward studying technology more formally.
 
@@ -23,7 +23,6 @@ After moving to the U.S. in 2014, I faced the decision of choosing a major. Whil
 
 
 ### Professional Experience:
----
 
 My career in tech began as an Advanced Repair Agent at Geek Squad, where I handled computer repairs and virus removal for macOS and Windows systems. Starting in customer service, I was quickly promoted to handle advanced diagnostics, which deepened my technical skills and client communication abilities.
 
@@ -31,7 +30,6 @@ With a solid technical foundation, I transitioned to a corporate IT role at Grub
 
 
 ### Skills and Expertise:
----
 
 Over the years, I’ve developed a diverse skill set:
 
@@ -47,7 +45,6 @@ Each of these skill areas represents a key part of my professional toolkit. Toge
 
 
 ### Notable Projects:
----
 
 Throughout my career, I’ve had the opportunity to lead and contribute to impactful projects that have honed my skills and advanced my technical expertise. Here are three key projects that highlight my professional experience in cybersecurity:
 
@@ -59,11 +56,11 @@ For a comprehensive view of my academic projects, please refer to the [**Project
 
 
 ### Personal Philosophy:
----
 
 For me, cybersecurity is more than just a job—it’s a responsibility to protect and empower others in a digital world. I believe that a successful cybersecurity analyst must not only stay current with evolving threats but also translate complex security issues into clear, actionable insights that help people feel secure and informed.
 
 As I move into a cybersecurity analyst role, I bring a dedication to continuous learning and a people-centered approach, ensuring that security measures are both robust and user-friendly. I see each incident as an opportunity to strengthen systems, educate users, and contribute to a safer digital environment. I’m driven by the proactive mindset needed to excel in cybersecurity, committed to staying adaptable and vigilant to make a meaningful impact.
+
 
 ### Looking Ahead: 
 
