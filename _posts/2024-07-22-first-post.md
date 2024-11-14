@@ -31,10 +31,7 @@ With cybersecurity emerging as an essential field, I knew it was the path I need
 
 My professional journey in technology began with a role as an **_Advanced Repair Agent_** at Best Buy’s Geek Squad. Growing up, my dad had always emphasized the importance of education, so I didn’t enter the workforce until I completed my bachelor's degree. With limited U.S. work experience, I started in retail, where I found a unique opportunity at **_Geek Squad_**, immersing myself in hands-on repair work. Here, I was responsible for troubleshooting and repairing both macOS and Windows computers, often customizing systems for gaming enthusiasts or diagnosing complex issues like virus infections.
 
-When I first joined, I began as a customer service agent, greeting clients, listening to their issues, and documenting details in the ticketing system for the advanced repair team. 
-  > **Within just six months, however, my manager recognized my strong technical skills and promoted me to the Advanced Repair Agent role.**
-
-This position allowed me to dive deeper into diagnostics, virus removal, system builds, and client education on cybersecurity best practices, all while utilizing my knowledge from my studies in information security.
+When I first joined, I began as a customer service agent, greeting clients, listening to their issues, and documenting details in the ticketing system for the advanced repair team. **_Within just six months, however, my manager recognized my strong technical skills and promoted me to the Advanced Repair Agent role_.** This position allowed me to dive deeper into diagnostics, virus removal, system builds, and client education on cybersecurity best practices, all while utilizing my knowledge from my studies in information security.
 
 After gaining valuable experience at Best Buy for nearly two years, I set my sights on entering the corporate tech environment, which led me to a role as a **_Service Desk Specialist at Grubhub_**. This transition marked my first foray into corporate IT support, where I provided technical troubleshooting, problem-solving, and client support in a fast-paced, dynamic environment. My experience at Grubhub deepened my understanding of corporate systems and refined my communication skills, as I learned to address and resolve issues efficiently for a diverse range of clients.
 
