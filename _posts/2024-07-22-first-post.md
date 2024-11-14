@@ -33,13 +33,19 @@ With a solid technical foundation, I transitioned to a corporate IT role at Grub
 
 Over the years, I’ve developed a diverse skill set:
 
-- **Technical Troubleshooting & Repair**: My time at Geek Squad provided a strong foundation in diagnosing and repairing systems, virus removal, and educating clients on cybersecurity basics.
-- **Incident Response & Threat Analysis**: In financial cybersecurity roles, I used tools like Splunk and CrowdStrike to monitor threats and respond to incidents, collaborating with cross-functional teams for remediation.
-- **Digital Forensics & Investigations**: I’ve investigated compromised accounts, analyzed digital evidence, and ensured account security through in-depth analysis.
-- **SIEM & Security Tools**: My hands-on experience with SIEM tools allows me to monitor networks, analyze logs, and hunt for threats effectively.
-- **Client Communication**: Translating technical findings into actionable insights for non-technical stakeholders has been key to my approach, ensuring clear, empathetic communication in security situations.
-- **Scripting & Automation**: I leverage scripting to streamline processes like log analysis and incident reporting, saving time and enhancing efficiency.
-- **Cloud Security Knowledge**: Exposure to cloud platforms has given me foundational skills in securing cloud environments, a crucial area as organizations increasingly adopt cloud solutions.
+🌟 **Technical Troubleshooting & Repair**: My time at Geek Squad provided a strong foundation in diagnosing and repairing systems, virus removal, and educating clients on cybersecurity basics.
+
+🌟 **Incident Response & Threat Analysis**: In financial cybersecurity roles, I used tools like Splunk and CrowdStrike to monitor threats and respond to incidents, collaborating with cross-functional teams for remediation.
+
+🌟 **Digital Forensics & Investigations**: I’ve investigated compromised accounts, analyzed digital evidence, and ensured account security through in-depth analysis.
+
+🌟 **SIEM & Security Tools**: My hands-on experience with SIEM tools allows me to monitor networks, analyze logs, and hunt for threats effectively.
+
+🌟 **Client Communication**: Translating technical findings into actionable insights for non-technical stakeholders has been key to my approach, ensuring clear, empathetic communication in security situations.
+
+🌟 **Scripting & Automation**: I leverage scripting to streamline processes like log analysis and incident reporting, saving time and enhancing efficiency.
+
+🌟 **Cloud Security Knowledge**: Exposure to cloud platforms has given me foundational skills in securing cloud environments, a crucial area as organizations increasingly adopt cloud solutions.
 
 Each of these skill areas represents a key part of my professional toolkit. Together, they empower me to tackle a wide range of cybersecurity challenges, from technical diagnostics to high-stakes incident response, all with a strong emphasis on protecting organizational assets and enhancing security resilience.
 
@@ -48,9 +54,9 @@ Each of these skill areas represents a key part of my professional toolkit. Toge
 
 Throughout my career, I’ve had the opportunity to lead and contribute to impactful projects that have honed my skills and advanced my technical expertise. Here are three key projects that highlight my professional experience in cybersecurity:
 
-- **Malicious Email Incident Response at First Republic**: I led the response to a high-priority email breach, collaborating with IT and network security teams to isolate the incident, conduct scans, and implement DLP monitoring.
-- **DFIR Toolkit Development**: During my master’s program, I created a digital forensics toolkit in Python, tailored for log collection and malware detection.
-- **Fraud Analysis at First Republic**: Using Splunk, I analyzed suspicious account activity, detecting potential fraud and engaging with clients to confirm account security.
+1. **Malicious Email Incident Response at First Republic**: I led the response to a high-priority email breach, collaborating with IT and network security teams to isolate the incident, conduct scans, and implement DLP monitoring.
+2. **DFIR Toolkit Development**: During my master’s program, I created a digital forensics toolkit in Python, tailored for log collection and malware detection.
+3. **Fraud Analysis at First Republic**: Using Splunk, I analyzed suspicious account activity, detecting potential fraud and engaging with clients to confirm account security.
 
 For a comprehensive view of my academic projects, please refer to the [**Projects page**](https://vkibaja.github.io/projects/), where I’ve detailed several additional initiatives I completed during my studies, each contributing to my technical foundation in cybersecurity.
 
