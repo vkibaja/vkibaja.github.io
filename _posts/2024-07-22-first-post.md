@@ -8,13 +8,13 @@ featured_image: '/images/demo/My-Journey-to-Cybersecurity.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-### From Curious Beginner to Cybersecurity Specialist.
+## From Curious Beginner to Cybersecurity Specialist.
 
-#### Introduction:
+### Introduction:
 
 Welcome to my first blog post! I’m excited to take you beyond the bullet points of my resume and share a closer look at my journey in cybersecurity—what drives me, the hands-on skills I’ve developed, and the experiences that have shaped me as a professional. My aim here is to give you real insight into the passion and dedication I bring to cybersecurity, not just as a job, but as a field I truly believe in. I invite you to join me in exploring my career story, lessons learned along the way, and my perspective on the evolving landscape of cybersecurity.
 
-#### My Background:
+### My Background:
 
 My journey into cybersecurity began long before I even knew the field existed. Growing up in Tanzania, I spent countless afternoons after school helping my mom at her liquor business, where she was the exclusive distributor of Tanzania Breweries Limited (TBL) in our region. I’d be there in my school uniform, helping her count cash, track stock, and balance handwritten records—a stark contrast to the digital systems I’d later come to know. Even then, I was curious about technology; I’d often suggest to my mom that her business could benefit from going digital. But her immediate response was always a question I didn’t yet know how to answer: **“How secure are these platforms?”**
 
@@ -24,17 +24,20 @@ In 2013, after I graduated high school, my dad began the visa process for my sis
 
 With cybersecurity emerging as an essential field, I knew it was the path I needed to follow. Though few colleges offered cybersecurity as a major back then, I began my studies in Information Technology at a community college, where my dad could manage tuition costs, and eventually transferred to a four-year university to complete my bachelor’s. My journey came full circle when I earned my master’s in cybersecurity, finally gaining the skills to answer those early questions about the safety of digital platforms and deepen my commitment to the field.
 
-#### Professional Experience:
+### Professional Experience:
 
 My professional journey in technology began with a role as an **Advanced Repair Agent** at Best Buy’s Geek Squad. Growing up, my dad had always emphasized the importance of education, so I didn’t enter the workforce until I completed my bachelor's degree. With limited U.S. work experience, I started in retail, where I found a unique opportunity at **Geek Squad**, immersing myself in hands-on repair work. Here, I was responsible for troubleshooting and repairing both macOS and Windows computers, often customizing systems for gaming enthusiasts or diagnosing complex issues like virus infections.
 
-When I first joined, I began as a customer service agent, greeting clients, listening to their issues, and documenting details in the ticketing system for the advanced repair team. **Within just six months, however, my manager recognized my strong technical skills and promoted me to the Advanced Repair Agent role.** This position allowed me to dive deeper into diagnostics, virus removal, system builds, and client education on cybersecurity best practices, all while utilizing my knowledge from my studies in information security.
+When I first joined, I began as a customer service agent, greeting clients, listening to their issues, and documenting details in the ticketing system for the advanced repair team. 
+  > **Within just six months, however, my manager recognized my strong technical skills and promoted me to the Advanced Repair Agent role.**
+
+This position allowed me to dive deeper into diagnostics, virus removal, system builds, and client education on cybersecurity best practices, all while utilizing my knowledge from my studies in information security.
 
 After gaining valuable experience at Best Buy for nearly two years, I set my sights on entering the corporate tech environment, which led me to a role as a **Service Desk Specialist at Grubhub**. This transition marked my first foray into corporate IT support, where I provided technical troubleshooting, problem-solving, and client support in a fast-paced, dynamic environment. My experience at Grubhub deepened my understanding of corporate systems and refined my communication skills, as I learned to address and resolve issues efficiently for a diverse range of clients.
 
 These roles laid the groundwork for my move into cybersecurity, where I’ve since held positions as an **Incident Response Specialist at leading financial institutions, including First Republic and JPMorgan Chase**. In these roles, I leveraged the technical foundation and client-focused mindset I developed early on to respond to security incidents, analyze threats, and mitigate risks. My journey from hands-on computer repairs to corporate service desk support and eventually into cybersecurity has equipped me with a well-rounded skill set, a problem-solving mindset, and a commitment to protecting data and systems.
 
-#### Skills and Expertise:
+### Skills and Expertise:
 
 Over the course of my career, I’ve built a diverse and robust set of skills that bridge hands-on technical work, cybersecurity expertise, and client-focused support. Here are some key areas of my expertise:
 
@@ -48,7 +51,7 @@ Over the course of my career, I’ve built a diverse and robust set of skills th
 
 Each of these skill areas represents a key part of my professional toolkit. Together, they empower me to tackle a wide range of cybersecurity challenges, from technical diagnostics to high-stakes incident response, all with a strong emphasis on protecting organizational assets and enhancing security resilience.
 
-#### Notable Projects:
+### Notable Projects:
 
 Throughout my career, I’ve had the opportunity to lead and contribute to impactful projects that have honed my skills and advanced my technical expertise. Here are three key projects that highlight my professional experience in cybersecurity:
 
@@ -58,16 +61,16 @@ Throughout my career, I’ve had the opportunity to lead and contribute to impac
   
 For a comprehensive view of my academic projects, please refer to the [**Projects page**](https://vkibaja.github.io/projects/), where I’ve detailed several additional initiatives I completed during my studies, each contributing to my technical foundation in cybersecurity.
 
-#### Personal Philosophy:
+### Personal Philosophy:
 
 For me, cybersecurity is more than just a job—it’s a responsibility to protect and empower others in a digital world. I believe that a successful cybersecurity analyst must not only stay current with evolving threats but also translate complex security issues into clear, actionable insights that help people feel secure and informed.
 
 As I move into a cybersecurity analyst role, I bring a dedication to continuous learning and a people-centered approach, ensuring that security measures are both robust and user-friendly. I see each incident as an opportunity to strengthen systems, educate users, and contribute to a safer digital environment. I’m driven by the proactive mindset needed to excel in cybersecurity, committed to staying adaptable and vigilant to make a meaningful impact.
 
-#### Looking Ahead: 
+### Looking Ahead: 
 
 As I continue to evolve in my career, I am eager to take on new challenges and opportunities to grow. Whether it's through sharing my experiences on this blog, contributing to innovative projects, or connecting with fellow professionals, I am excited about the future of cybersecurity and my role within it.
 
-#### Conclusion:
+### Conclusion:
 
 Thank you for visiting my blog and taking the time to learn about my journey in cybersecurity. I look forward to sharing more of my experiences, insights, and the latest industry trends with you. Stay tuned for more posts, and feel free to connect with me if you're interested in discussing cybersecurity, potential collaborations, or career opportunities. Let's embark on this cybersecurity adventure together!
