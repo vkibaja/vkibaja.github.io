@@ -56,7 +56,7 @@ Throughout my career, I’ve had the opportunity to lead and contribute to impac
 - **Custom DFIR Toolkit Development:** During my master's program, I designed a Digital Forensics and Incident Response (DFIR) toolkit using Python, tailored for both Windows and macOS environments. This toolkit featured essential functions for log collection, malware detection, and system integrity checks. Building this toolkit gave me hands-on experience in digital forensics and strengthened my programming skills, which I’ve applied in my professional roles.
 - **Client Account Fraud Analysis at First Republic:** In another project at First Republic, I conducted fraud analysis on client accounts, using Splunk to monitor suspicious activity, such as unusual login patterns and high-risk transactions. My ability to detect potential fraud early allowed me to engage with clients effectively, confirm account security, and implement preventive measures. This project emphasized my strengths in technical analysis and client communication.
   
-For a comprehensive view of my academic projects, please refer to the **Projects page**, where I’ve detailed several additional initiatives I completed during my studies, each contributing to my technical foundation in cybersecurity.
+For a comprehensive view of my academic projects, please refer to the [**Projects page**](https://vkibaja.github.io/projects/), where I’ve detailed several additional initiatives I completed during my studies, each contributing to my technical foundation in cybersecurity.
 
 #### Personal Philosophy:
 
