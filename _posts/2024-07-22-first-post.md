@@ -11,6 +11,7 @@ featured_image: '/images/demo/My-Journey-to-Cybersecurity.jpg'
 ## From Curious Beginner to Cybersecurity Specialist.
 
 ### Introduction:
+---
 
 Welcome to my first blog post! I’m excited to take you beyond the bullet points of my resume and share a closer look at my journey in cybersecurity—what drives me, the hands-on skills I’ve developed, and the experiences that have shaped me as a professional. My aim here is to give you real insight into the passion and dedication I bring to cybersecurity, not just as a job, but as a field I truly believe in. I invite you to join me in exploring my career story, lessons learned along the way, and my perspective on the evolving landscape of cybersecurity.
 
@@ -25,6 +26,7 @@ In 2013, after I graduated high school, my dad began the visa process for my sis
 With cybersecurity emerging as an essential field, I knew it was the path I needed to follow. Though few colleges offered cybersecurity as a major back then, I began my studies in Information Technology at a community college, where my dad could manage tuition costs, and eventually transferred to a four-year university to complete my bachelor’s. My journey came full circle when I earned my master’s in cybersecurity, finally gaining the skills to answer those early questions about the safety of digital platforms and deepen my commitment to the field.
 
 ### Professional Experience:
+---
 
 My professional journey in technology began with a role as an **Advanced Repair Agent** at Best Buy’s Geek Squad. Growing up, my dad had always emphasized the importance of education, so I didn’t enter the workforce until I completed my bachelor's degree. With limited U.S. work experience, I started in retail, where I found a unique opportunity at **Geek Squad**, immersing myself in hands-on repair work. Here, I was responsible for troubleshooting and repairing both macOS and Windows computers, often customizing systems for gaming enthusiasts or diagnosing complex issues like virus infections.
 
@@ -38,6 +40,7 @@ After gaining valuable experience at Best Buy for nearly two years, I set my sig
 These roles laid the groundwork for my move into cybersecurity, where I’ve since held positions as an **Incident Response Specialist at leading financial institutions, including First Republic and JPMorgan Chase**. In these roles, I leveraged the technical foundation and client-focused mindset I developed early on to respond to security incidents, analyze threats, and mitigate risks. My journey from hands-on computer repairs to corporate service desk support and eventually into cybersecurity has equipped me with a well-rounded skill set, a problem-solving mindset, and a commitment to protecting data and systems.
 
 ### Skills and Expertise:
+---
 
 Over the course of my career, I’ve built a diverse and robust set of skills that bridge hands-on technical work, cybersecurity expertise, and client-focused support. Here are some key areas of my expertise:
 
@@ -52,6 +55,7 @@ Over the course of my career, I’ve built a diverse and robust set of skills th
 Each of these skill areas represents a key part of my professional toolkit. Together, they empower me to tackle a wide range of cybersecurity challenges, from technical diagnostics to high-stakes incident response, all with a strong emphasis on protecting organizational assets and enhancing security resilience.
 
 ### Notable Projects:
+---
 
 Throughout my career, I’ve had the opportunity to lead and contribute to impactful projects that have honed my skills and advanced my technical expertise. Here are three key projects that highlight my professional experience in cybersecurity:
 
@@ -62,6 +66,7 @@ Throughout my career, I’ve had the opportunity to lead and contribute to impac
 For a comprehensive view of my academic projects, please refer to the [**Projects page**](https://vkibaja.github.io/projects/), where I’ve detailed several additional initiatives I completed during my studies, each contributing to my technical foundation in cybersecurity.
 
 ### Personal Philosophy:
+---
 
 For me, cybersecurity is more than just a job—it’s a responsibility to protect and empower others in a digital world. I believe that a successful cybersecurity analyst must not only stay current with evolving threats but also translate complex security issues into clear, actionable insights that help people feel secure and informed.
 
