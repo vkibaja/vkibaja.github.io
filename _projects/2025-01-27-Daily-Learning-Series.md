@@ -3,12 +3,12 @@ title: 'Daily Learning Series'
 subtitle: 'Cybersecurity and AI Fundamentals'
 date: 2025-01-27 00:00:00
 description: This project highlights my dedication to continuous learning in Cybersecurity and AI, with daily documented progress through PDFs and video summaries.
-featured_image: '/images/demo/DFIR.jpg'
+featured_image: '/images/demo/Cyber_AI_image.jpg'
 ---
 
-![](/images/demo/DFIR-MacOS-Code.jpg)
+![](/images/demo/Cyber_AI_image2.jpg)
 
-[DFIR Project on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main)
+[Project Link on GitHub](https://github.com/koulaks/Capstone-DFIR/tree/main)
 
 ### Daily Learning Series: Cybersecurity and AI Fundamentals
 
