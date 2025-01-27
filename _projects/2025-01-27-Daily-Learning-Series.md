@@ -2,7 +2,7 @@
 title: 'Daily Learning Series'
 subtitle: 'Cybersecurity and AI Fundamentals'
 date: 2025-01-27 00:00:00
-description: Will put in a short description soon.
+description: This project highlights my dedication to continuous learning in Cybersecurity and AI, with daily documented progress through PDFs and video summaries.
 featured_image: '/images/demo/DFIR.jpg'
 ---
 
